@@ -1,19 +1,33 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'My Competative Programming Solutions',
+    description: `My Solutions for codeforces and Cses platforms`,
+    imgSrc: '/static/images/cp_solutions.svg',
+    href: 'https://github.com/SaiKrishna1908/MyCPSolutions',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Sumo Compiler',
+    description: ` A simple compiler written in java which can parse mathematical expressions`,
+    imgSrc: '/static/images/sumo_compiler.svg',
+    href: 'https://github.com/SaiKrishna1908/sumo-compiler',
+  },
+  {
+    title: 'Imaj App',
+    description: `A web-application to manipulate images uses angular for frontend and spring-boot on server side`,
+    imgSrc: '/static/images/imaj_project.svg',
+    href: 'https://github.com/SaiKrishna1908/imaj-app',
+  },
+  {
+    title: 'VGuru',
+    description: `Service side implementation for a virtual-Learning platform`,
+    imgSrc: '/static/images/vguru.svg',
+    href: 'https://github.com/SaiKrishna1908/imaj-app',
+  },
+  {
+    title: 'Yber',
+    description: `A minimal service side clone for uber app`,
+    imgSrc: '/static/images/yber.svg',
+    href: 'https://github.com/SaiKrishna1908/Yber',
   },
 ]
 
